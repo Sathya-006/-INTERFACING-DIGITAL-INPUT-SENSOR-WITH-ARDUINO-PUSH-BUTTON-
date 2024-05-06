@@ -97,4 +97,6 @@ else{
 ![Screenshot 2024-02-15 111509](https://github.com/Sathya-006/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/121661327/a92e89bb-ae50-4bff-a61f-341e031530b5)
 ![image](https://github.com/Sathya-006/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/121661327/256a01ea-9b74-4fc7-a431-2f58ee850568)
 
+## RESULT :
+Thus the interface of a digital input (push button) and blink and LED upon activation is performed .
 
